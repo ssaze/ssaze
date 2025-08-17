@@ -1,5 +1,4 @@
-- 👋 Hi! I'm Sarah.
-- I'm a sophomore studying Computer Science at the University of Michigan.
+Junior studying Computer Science at the University of Michigan.
 
 <!---
 ssaze/ssaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
